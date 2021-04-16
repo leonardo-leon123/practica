@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'museo-practica'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_826488a24cc74cf5adf3a91fe67e8102 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_2bcea25cd6564922864f13bcc61f3189 }}
